@@ -76,11 +76,11 @@ Engage Actively: Participate in discussions, ask questions, and provide input wh
   - Great! Make sure notifications are enabled and to check frequently.
 - No
   - Please join the chat and introduce yourself
-{: .choose_best #desktop title="Setup desktop client" points="1" answer="1"}
+{: .choose_best #join_discord title="Join Discord Chat" points="1" answer="1"}
 
 - Does your Discord server have your real name as it appears in Canvas?
 - Yes
   - Great! Your on the path of excellent professional communication.
 - No
   - How are we supposed to know it's you? Please update your profile to match your real name. 
-{: .choose_best #desktop title="Setup desktop client" points="1" answer="1"}
+{: .choose_best #real_name title="Real name" points="1" answer="1"}
