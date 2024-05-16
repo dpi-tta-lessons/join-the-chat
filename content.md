@@ -83,4 +83,4 @@ Engage Actively: Participate in discussions, ask questions, and provide input wh
   - Great! Your on the path of excellent professional communication.
 - No
   - How are we supposed to know it's you? Please update your profile to match your real name. 
-{: .choose_best #real_name title="Real name" points="1" answer="1"}
+{: .choose_best #discord_real_name title="Real name" points="1" answer="1"}
