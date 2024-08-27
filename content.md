@@ -4,7 +4,7 @@ In this lesson, you will learn how to join our Discord server, set expectations 
 ## Joining the Discord Server
 
 ### How to Join
-Join the Discord server to chat with your classmates and instructors. The link to join the server is available on the home page.
+Join the Discord server to chat with your classmates and instructors. The link to join the server is available on the Canvas home page.
 
 ### Discord Server Rules
 - **Be Kind**: Treat everyone with respect and kindness.
@@ -21,6 +21,7 @@ Copy and paste this template. Then, add this info to your Discord profile "About
 ⭐️ Hobbies and/or fun fact:
 🍦 Favorite Dessert:
 ```
+{: copyable }
 
 ## Examples of Appropriate Workplace Communication
 ### General Guidelines
