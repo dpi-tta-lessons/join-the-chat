@@ -85,3 +85,5 @@ Engage Actively: Participate in discussions, ask questions, and provide input wh
 - No
   - How are we supposed to know it's you? Please update your profile to match your real name. 
 {: .choose_best #discord_real_name title="Real name" points="1" answer="1"}
+
+- Type your Discord ID/username into the field below. {: .free_text #discord_username title="Discord Username" points="1"}
