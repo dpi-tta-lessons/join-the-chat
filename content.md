@@ -6,6 +6,10 @@ In this lesson, you will learn how to join our Discord server, set expectations 
 ### How to Join
 Join the Discord server to chat with your classmates and instructors. The link to join the server is available on the Canvas home page.
 
+<aside>
+  I recommend watching this video [How to Use Discord](https://youtu.be/z5c6Bc-S0TI) if you haven't used Discord before.
+</aside>
+
 ### Discord Server Rules
 - **Be Kind**: Treat everyone with respect and kindness.
 - **Use Your Real Name**: Use the same name (first and last) used in Canvas in your server profile.
