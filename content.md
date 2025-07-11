@@ -85,7 +85,7 @@ Engage Actively: Participate in discussions, ask questions, and provide input wh
 
 - Does your Discord server have your real name as it appears in Canvas?
 - Yes
-  - Great! Your on the path of excellent professional communication.
+  - Great! You're on the path of excellent professional communication.
 - No
   - How are we supposed to know it's you? Please update your profile to match your real name. 
 {: .choose_best #discord_real_name title="Real name" points="1" answer="1"}
