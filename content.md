@@ -1,9 +1,11 @@
 # Join the Chat 💬
+
 In this lesson, you will learn how to join our Discord server, set expectations for using business communication platforms, and understand proper etiquette for virtual interactions. Effective communication is crucial in any professional setting, and adhering to these guidelines will help you maintain a professional image and foster a collaborative environment.
 
 ## Joining the Discord Server
 
 ### How to Join
+
 Join the Discord server to chat with your classmates and instructors. The link to join the server is available on the Canvas home page.
 
 <aside>
@@ -11,11 +13,13 @@ Join the Discord server to chat with your classmates and instructors. The link t
 </aside>
 
 ### Discord Server Rules
+
 - **Be Kind**: Treat everyone with respect and kindness.
 - **Use Your Real Name**: Use the same name (first and last) used in Canvas in your server profile.
 - **Use a Workplace Appropriate Profile Image**: Ensure your profile image is professional and appropriate for a work setting.
 
 ### Introduce Yourself
+
 Find the `#introduce-yourself` channel, share a brief introduction, including your name, background, and what you hope to achieve during the training program.
 
 Copy and paste this template. Then, add this info to your Discord profile "About Me" section.
@@ -28,12 +32,15 @@ Copy and paste this template. Then, add this info to your Discord profile "About
 {: copyable }
 
 ## Examples of Appropriate Workplace Communication
+
 ### General Guidelines
+
 - **Be Professional**: Use proper grammar and spelling. Avoid slang and abbreviations that might be misunderstood.
 - **Be Clear and Concise**: Keep messages to the point. Clearly state your questions or comments.
 - **Be Respectful**: Avoid using all caps, which can be interpreted as shouting. Respect others' opinions and viewpoints.
 
 ## Examples of Business Communication Platforms
+
 In addition to Discord, there are other common business communication platforms you may encounter in the workplace:
 
 - **Slack**: A messaging platform that supports team communication and collaboration.
@@ -41,6 +48,7 @@ In addition to Discord, there are other common business communication platforms 
 - **Zoom**: A video conferencing tool used for virtual meetings and webinars.
 
 ## Zoom Etiquette
+
 When participating in Zoom meetings, follow these guidelines to ensure a professional and productive meeting:
 
 - **Keep Your Camera On**: Having your camera on helps create a more engaging and interactive meeting environment.
